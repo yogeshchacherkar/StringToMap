@@ -4,12 +4,6 @@
  * 
  * enjoy programming ;)
  */
-/* edited by Yogesh */
-/* edit by Poonam*/
-
-/*edit by yo yo honey singh lol !!!*/
-
-
 
 package com.ysoft;
 
